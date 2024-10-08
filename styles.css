@@ -67,6 +67,7 @@ q {
     font-family: cursive;
     font-style: italic;
     font-size: 1.2em;
+    border-left: 3px solid black;
 }
 
 ul li {
