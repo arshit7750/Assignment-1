@@ -1,0 +1,84 @@
+/* Your Name: [Arshit Pansheriya], Student Number: [8909765] */
+
+body {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: yellowgreen;
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 0 auto;
+    margin: 20px 0;
+}
+
+footer {
+    clear: both;
+    background-color: yellowgreen;
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+h1,
+h2 {
+    color: purple;
+    font-variant: small-caps;
+}
+
+footer p {
+    font-size: 12px;
+    color: purple;
+}
+
+main {
+    float: left;
+    width: 66%;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+aside {
+    height: 1215px;
+    float: right;
+    width: 30%;
+    padding: 10px;
+    background-color: yellowgreen;
+    border-radius: 12px;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+figcaption {
+    font-style: bold;
+    font-variant: small-caps;
+    
+}
+
+q {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+ul li {
+    list-style-type: none;
+    line-height: 1.5;
+}
+
+ul>li>a {
+    text-decoration: none;
+    color: black;
+}
+
+aside a:hover {
+    color: #ff4500;
+}
