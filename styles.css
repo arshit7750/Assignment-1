@@ -12,7 +12,7 @@ header {
     background-color: yellowgreen;
     text-align: center;
     border: 1px solid #000;
-    border-radius: 10px;
+    border-radius: 9px;
     padding: 0 auto;
     margin: 20px 0;
 }
@@ -22,7 +22,7 @@ footer {
     background-color: yellowgreen;
     text-align: center;
     border: 1px solid #000;
-    border-radius: 10px;
+    border-radius: 9px;
 }
 
 h1,
@@ -49,12 +49,12 @@ aside {
     width: 30%;
     padding: 10px;
     background-color: yellowgreen;
-    border-radius: 12px;
+    border-radius: 9px;
 }
 
 img {
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 9px;
 }
 
 figcaption {
