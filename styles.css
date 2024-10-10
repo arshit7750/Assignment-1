@@ -44,7 +44,7 @@ main {
 }
 
 aside {
-    height: 1215px;
+    height: 1370px;
     float: right;
     width: 30%;
     padding: 10px;
@@ -55,9 +55,11 @@ aside {
 img {
     border: 2px solid black;
     border-radius: 9px;
+    width: 730px;
 }
 
 figcaption {
+    text-align: center;
     font-style: bold;
     font-variant: small-caps;
     
